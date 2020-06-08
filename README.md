@@ -1,1 +1,2 @@
 ＃linebot
+＃wether_bot
