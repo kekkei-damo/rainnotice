@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+＃linebot
+＃wether_bot
+>>>>>>> b0199ca25a95f092caf4d977d0de20035661463e
