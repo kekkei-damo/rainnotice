@@ -46,4 +46,6 @@ gem 'dotenv-rails'
 
 gem 'line-bot-api'
 
-gem  'rake'
+gem 'rake', '>=13.0.0'
+
+gem 'rack', '>= 2.1.4'
